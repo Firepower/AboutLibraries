@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="define_int_discreetapprate"/>
+    <string name="define_discreetapprate"/>
     <!-- Author section -->
     <string name="library_discreetapprate_author">Nicolas Pomepuy</string>
     <string name="library_discreetapprate_authorWebsite">http://nicolaspomepuy.fr/</string>
