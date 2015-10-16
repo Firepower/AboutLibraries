@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="define_int_discreetapprate"/>
+    <!-- Author section -->
+    <string name="library_discreetapprate_author">Nicolas Pomepuy</string>
+    <string name="library_discreetapprate_authorWebsite">http://nicolaspomepuy.fr/</string>
+    <!-- Library section -->
+    <string name="library_discreetapprate_libraryName">Discreet App Rate</string>
+    <string name="library_discreetapprate_libraryDescription">A lightweight non intrusive app rate reminder for Android.</string>
+    <string name="library_discreetapprate_libraryWebsite">https://github.com/PomepuyN/discreet-app-rate</string>
+    <string name="library_discreetapprate_libraryVersion">2.0.3</string>
+    <!-- OpenSource section -->
+    <string name="library_discreetapprate_isOpenSource">true</string>
+    <string name="library_discreetapprate_repositoryLink">https://github.com/PomepuyN/discreet-app-rate</string>
+    <!-- ClassPath for autoDetect section -->
+    <string name="library_discreetapprate_classPath">fr.nicolaspomepuy.discreetapprate</string>
+    <!-- License section -->
+    <string name="library_discreetapprate_licenseId">apache_2_0</string>
+    <!-- Custom variables section -->
+</resources>
